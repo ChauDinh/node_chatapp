@@ -37,3 +37,7 @@ This repo is my code for a realtime chat app built by Node.js and MongoDB
 - Text editor: VSCode (recommended), Vim, WebStorm, Sublime
 
 - Time and patience!!!!!
+
+## What the app looks like?
+
+![The Home Page](./src/public/images/Home.png)
